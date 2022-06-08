@@ -1,7 +1,7 @@
 # **BANK-MARKETING_EDA_MINI_CAPSTONE_PROJECT :**
 ![image](https://user-images.githubusercontent.com/98200001/171666303-38aa70c1-bda5-4a8c-9ae2-64713dbbe195.png)
 
--#### **ATTRIBUTES_INFORMATION :**
+#### **ATTRIBUTES_INFORMATION :**
 #### **ATTRIBUTES INFORMATION :**
 
 |**ATTRIBUTE_NAME**|**INFORMATION**|
